@@ -1,12 +1,6 @@
 # RL Midterm · Practice Lab
 
-> **本仓库部署信息**：仓库 `xehuosh/slai-RL-midterm-practice.github.io`，分支 `main`，站点根目录 `/(root)`。
-> 在 Settings → Pages 启用后访问 **https://xehuosh.github.io/slai-RL-midterm-practice.github.io/**。
-> 注意：仓库名以 `.github.io` 结尾并不等于独立域名；只有 `<用户名>.github.io` 才是用户主页站点。
-
-强化学习课程期中刷题网站。纯 HTML / CSS / JavaScript，无构建步骤、无 CDN、无后端、无登录，直接放到 GitHub Pages 即可访问。
-
-界面结构与交互**仿照** [Evan2you/slai-NNtraining-midterm](https://github.com/Evan2you/slai-NNtraining-midterm)，按 RL 课程做了适配与扩展：题目全英文，答案区展开**中文版题目 + 详细中文解析**，并有错题本与进度导出/导入。
+ Please view https://xehuosh.github.io/slai-RL-midterm-practice.github.io/
 
 ## 功能
 
